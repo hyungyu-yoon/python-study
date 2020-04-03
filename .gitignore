@@ -1,1 +1,3 @@
 .vscode
+tensorflow-image-caption/train2014
+tensorflow-image-caption/annotations
